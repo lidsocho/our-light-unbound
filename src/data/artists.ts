@@ -782,7 +782,7 @@ Sasha continues to develop her artistry by attending Cornish College of the Arts
         year: "2024",
         medium: "Oil on Canvas",
         dimensions: '14"x16"',
-        price: "$4,100",
+        price: "$3,200",
         description: `The idea for "Roots of Rebirth," originated from the ancient Japanese forestry practice of "Daisugi," or the process of growing trees out of other trees. Giving new life to something that was believed to be at its end was the main inspiration, symbolizing how at our roots we possess something that gives us the strength to keep moving through any challenge we may face. The healing process is slow yet fruitful, much like growing a tree.`,
         image: rootsOfRebirth
       }
